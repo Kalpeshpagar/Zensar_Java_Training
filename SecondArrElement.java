@@ -20,7 +20,7 @@ public class SecondArrElement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-         // Ask the user for the number of elements in the array
+
          System.out.println("Enter the number of elements in the array: ");
          int n = sc.nextInt();
  
